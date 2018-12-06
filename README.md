@@ -1,4 +1,6 @@
 # vue-videojs7
+这个分支旨在研究个性化定制控件，希望能有所帮助
+
 
 A vue video.js 7 plugin, forked from : 
 [https://github.com/surmon-china/vue-video-player](https://github.com/surmon-china/vue-video-player)
